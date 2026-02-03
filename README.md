@@ -28,11 +28,12 @@ I enjoy building things close to the hardware.
 
 
 ### 📫 Reach me
-- GitHub Issues / Discussions  
+- GitHub Issues / Discussions
+- 
+
+⚡ *Turning ideas into reliable embedded systems.*  
 
 ---
-
-⚡ *Turning ideas into reliable embedded systems.*
 
 ### ✨ Fun facts
 - I enjoy reading manga and novels  
