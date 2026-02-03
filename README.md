@@ -14,7 +14,8 @@ I enjoy building things close to the hardware.
 
 ### 🌱 Currently exploring
 - FreeRTOS fundamentals  
-- Advanced embedded firmware concepts    
+- Advanced embedded firmware concepts
+- Embedded Linux & MPU platforms     
 - PCB design best practices  
   - KiCad  
   - Altium Designer  
