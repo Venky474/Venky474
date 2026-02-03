@@ -1,8 +1,6 @@
 
 ## Hi there 👋
 
-## Hi, I'm Venky 👋
-
 **Embedded Systems & Firmware Developer**  
 I enjoy building things close to the hardware.
 
