@@ -29,7 +29,6 @@ I enjoy building things close to the hardware.
 
 ### 📫 Reach me
 - GitHub Issues / Discussions
-- 
 
 ⚡ *Turning ideas into reliable embedded systems.*  
 
