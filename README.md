@@ -8,18 +8,23 @@ I enjoy building things close to the hardware.
 
 ### 🔧 What I work with
 - STM32 microcontrollers  
-- FreeRTOS & bare-metal firmware  
 - LVGL, TFT & embedded UI  
-- Sensors, drivers & peripherals  
+- Sensors, drivers & MCU peripherals  
+- PCB schematic & layout fundamentals  
 
 ### 🌱 Currently exploring
-- Advanced RTOS concepts  
-- Embedded Linux & MPU platforms  
+- FreeRTOS fundamentals  
+- Advanced embedded firmware concepts    
+- PCB design best practices  
+  - KiCad  
+  - Altium Designer  
 
 ### 🤝 Open to
 - Embedded & firmware projects  
-- Technical collaboration  
+- PCB design collaboration (learning-focused)  
+- Technical discussions & code reviews  
 - Learning and knowledge sharing  
+
 
 ### 📫 Reach me
 - GitHub Issues / Discussions  
