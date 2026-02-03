@@ -28,6 +28,12 @@ I enjoy building things close to the hardware.
 
 ⚡ *Turning ideas into reliable embedded systems.*
 
+### ✨ Fun facts
+- I enjoy reading manga and novels  
+- *Death Note* is my favorite anime  
+- Hobbies: anime, gym, and building things  
+
+
 
 <!--
 **Venky474/Venky474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
